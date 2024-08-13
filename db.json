@@ -3,6 +3,7 @@
       {
         "id": 0,
         "name": "America",
+        "flagSrc" : "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
         "sports": [
           {
             "name": "Archery",
@@ -33,6 +34,7 @@
       {
         "id": 1,
         "name": "China",
+        "flagSrc" : "https://t4.ftcdn.net/jpg/00/77/00/81/360_F_77008181_qrJQGp1lSdsOl4WUYYi8eaP8sdpUtZRZ.jpg",
         "sports": [
           {
             "name": "Archery",
@@ -63,6 +65,7 @@
       {
         "id": 2,
         "name": "Thailand",
+        "flagSrc": "https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg",
         "sports": [
           {
             "name": "Archery",
