@@ -1,0 +1,34 @@
+{
+    "countries": [
+      {
+        "id": 0,
+        "name": "America",
+        "sports": [
+          {
+            "name": "Archery",
+            "gold": 40,
+            "silver": 4,
+            "bronze": 1
+          },
+          {
+            "name": "Badminton",
+            "gold": 40,
+            "silver": 4,
+            "bronze": 1
+          },
+          {
+            "name": "Breaking",
+            "gold": 40,
+            "silver": 4,
+            "bronze": 1
+          },
+          {
+            "name": "Shooting",
+            "gold": 40,
+            "silver": 4,
+            "bronze": 1
+          }
+        ]
+      }
+    ]
+  }
