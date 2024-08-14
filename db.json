@@ -188,23 +188,23 @@
         "flagSrc": "https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg",
         "sports": [
           {
-            "name": "Badminton",
-            "gold": 0,
+            "name": "Archery",
+            "gold": 5,
             "silver": 1,
             "bronze": 1
           },
           {
-            "name": "Weightlifting",
-            "gold": 0,
-            "silver": 2,
-            "bronze": 1
+            "name": "Shooting",
+            "gold": 3,
+            "silver": 3,
+            "bronze": 0
           },
           
           {
             "name": "Taekwondo",
-            "gold": 1,
+            "gold": 2,
             "silver": 0,
-            "bronze": 0
+            "bronze": 1
           }
         ]
       },
@@ -214,23 +214,23 @@
         "flagSrc": "https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg",
         "sports": [
           {
-            "name": "Badminton",
-            "gold": 0,
-            "silver": 1,
+            "name": "Fencing",
+            "gold": 1,
+            "silver": 3,
             "bronze": 1
           },
           {
-            "name": "Weightlifting",
-            "gold": 0,
+            "name": "Shooting",
+            "gold": 1,
             "silver": 2,
             "bronze": 1
           },
           
           {
             "name": "Taekwondo",
-            "gold": 1,
+            "gold": 0,
             "silver": 0,
-            "bronze": 0
+            "bronze": 1
           }
         ]
       },
@@ -240,22 +240,22 @@
         "flagSrc": "https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg",
         "sports": [
           {
-            "name": "Badminton",
-            "gold": 0,
-            "silver": 1,
+            "name": "Athletics",
+            "gold": 1,
+            "silver": 2,
             "bronze": 1
           },
           {
-            "name": "Weightlifting",
-            "gold": 0,
-            "silver": 2,
+            "name": "Canoe Sprint",
+            "gold": 2,
+            "silver": 1,
             "bronze": 1
           },
           
           {
-            "name": "Taekwondo",
-            "gold": 1,
-            "silver": 0,
+            "name": "Equestrian",
+            "gold": 4,
+            "silver": 1,
             "bronze": 0
           }
         ]
@@ -266,23 +266,23 @@
         "flagSrc": "https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg",
         "sports": [
           {
-            "name": "Badminton",
-            "gold": 0,
-            "silver": 1,
-            "bronze": 1
+            "name": "Canoe Sprint",
+            "gold": 3,
+            "silver": 0,
+            "bronze": 0
           },
           {
-            "name": "Weightlifting",
-            "gold": 0,
+            "name": "Rowing",
+            "gold": 1,
             "silver": 2,
             "bronze": 1
           },
           
           {
-            "name": "Taekwondo",
-            "gold": 1,
-            "silver": 0,
-            "bronze": 0
+            "name": "Sailing",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1
           }
         ]
       },
@@ -292,23 +292,23 @@
         "flagSrc": "https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg",
         "sports": [
           {
-            "name": "Badminton",
-            "gold": 0,
+            "name": "Athletics",
+            "gold": 3,
             "silver": 1,
             "bronze": 1
           },
           {
-            "name": "Weightlifting",
-            "gold": 0,
+            "name": "Swimming",
+            "gold": 3,
             "silver": 2,
-            "bronze": 1
+            "bronze": 3
           },
           
           {
             "name": "Taekwondo",
-            "gold": 1,
+            "gold": 0,
             "silver": 0,
-            "bronze": 0
+            "bronze": 1
           }
         ]
       },
@@ -318,22 +318,22 @@
         "flagSrc": "https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg",
         "sports": [
           {
-            "name": "Badminton",
-            "gold": 0,
-            "silver": 1,
-            "bronze": 1
+            "name": "Boxing",
+            "gold": 5,
+            "silver": 0,
+            "bronze": 0
           },
           {
             "name": "Weightlifting",
             "gold": 0,
-            "silver": 2,
-            "bronze": 1
+            "silver": 1,
+            "bronze": 0
           },
           
           {
             "name": "Taekwondo",
             "gold": 1,
-            "silver": 0,
+            "silver": 1,
             "bronze": 0
           }
         ]
@@ -344,16 +344,16 @@
         "flagSrc": "https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg",
         "sports": [
           {
-            "name": "Badminton",
+            "name": "Canoe Sprint",
             "gold": 0,
-            "silver": 1,
-            "bronze": 1
+            "silver": 4,
+            "bronze": 3
           },
           {
-            "name": "Weightlifting",
-            "gold": 0,
-            "silver": 2,
-            "bronze": 1
+            "name": "Swimming",
+            "gold": 2,
+            "silver": 1,
+            "bronze": 0
           },
           
           {
@@ -370,23 +370,23 @@
         "flagSrc": "https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg",
         "sports": [
           {
-            "name": "Badminton",
-            "gold": 0,
+            "name": "Athletics",
+            "gold": 2,
             "silver": 1,
             "bronze": 1
           },
           {
-            "name": "Weightlifting",
+            "name": "Canoe Sprint",
             "gold": 0,
-            "silver": 2,
-            "bronze": 1
+            "silver": 0,
+            "bronze": 2
           },
           
           {
-            "name": "Taekwondo",
-            "gold": 1,
-            "silver": 0,
-            "bronze": 0
+            "name": "Tennis",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1
           }
         ]
       },
