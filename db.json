@@ -115,7 +115,7 @@
       {
         "id": 4,
         "name": "France",
-        "flagSrc": "https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg",
+        "flagSrc": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/125px-Flag_of_France.svg.png",
         "flagDesc" : "République française , French Republic",
         "desc" : "France, officially the French Republic, is a country located primarily in Western Europe. Its overseas regions and territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies. ",
         "sports": [
@@ -143,7 +143,7 @@
       {
         "id": 5,
         "name": "Netherland",
-        "flagSrc": "https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg",
+        "flagSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/125px-Flag_of_the_Netherlands.svg.png",
         "flagDesc" : "Nederland ",
         "desc" : "The Netherlands, informally Holland, is a country located in Northwestern Europe with overseas territories in the Caribbean. It is the largest of the four constituent countries of the Kingdom of the Netherlands. ",
         "sports": [
