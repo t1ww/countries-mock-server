@@ -29,6 +29,34 @@
         ]
       },
       {
+        "id": 3,
+        "name": "Australia",
+        "flagSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/125px-Flag_of_Australia_%28converted%29.svg.png",
+        "flagDesc" : "Commonwealth of Australia",
+        "desc" : "Australia, officially the Commonwealth of Australia, is a country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands. ",
+        "sports": [
+          {
+            "name": "Swimming",
+            "gold": 7,
+            "silver": 8,
+            "bronze": 3
+          },
+          {
+            "name": "Athletics",
+            "gold": 1,
+            "silver": 2,
+            "bronze": 4
+          },
+          
+          {
+            "name": "Cycling Track",
+            "gold": 1,
+            "silver": 2,
+            "bronze": 2
+          }
+        ]
+      },
+      {
         "id": 1,
         "name": "China",
         "flagSrc" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/125px-Flag_of_the_People%27s_Republic_of_China.svg.png",
@@ -85,30 +113,30 @@
         ]
       },
       {
-        "id": 3,
-        "name": "Australia",
-        "flagSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/125px-Flag_of_Australia_%28converted%29.svg.png",
-        "flagDesc" : "Commonwealth of Australia",
-        "desc" : "Australia, officially the Commonwealth of Australia, is a country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands. ",
+        "id": 6,
+        "name": "Great Britain and Northern Ireland",
+        "flagSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/125px-Flag_of_the_United_Kingdom_%281-2%29.svg.png",
+        "flagDesc" : "United Kingdom of Great Britain and Northern Ireland",
+        "desc" : "The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK) or Britain, is a country in Northwestern Europe, off the coast of the continental mainland. It comprises England, Scotland, Wales, and Northern Ireland.  ",
         "sports": [
-          {
-            "name": "Swimming",
-            "gold": 7,
-            "silver": 8,
-            "bronze": 3
-          },
           {
             "name": "Athletics",
             "gold": 1,
-            "silver": 2,
+            "silver": 4,
+            "bronze": 5
+          },
+          {
+            "name": "Cycling Track",
+            "gold": 1,
+            "silver": 3,
             "bronze": 4
           },
           
           {
-            "name": "Cycling Track",
-            "gold": 1,
+            "name": "Rowing",
+            "gold": 3,
             "silver": 2,
-            "bronze": 2
+            "bronze": 3
           }
         ]
       },
@@ -169,34 +197,6 @@
         ]
       },
       {
-        "id": 6,
-        "name": "Great Britain and Northern Ireland",
-        "flagSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/125px-Flag_of_the_United_Kingdom_%281-2%29.svg.png",
-        "flagDesc" : "United Kingdom of Great Britain and Northern Ireland",
-        "desc" : "The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK) or Britain, is a country in Northwestern Europe, off the coast of the continental mainland. It comprises England, Scotland, Wales, and Northern Ireland.  ",
-        "sports": [
-          {
-            "name": "Athletics",
-            "gold": 1,
-            "silver": 4,
-            "bronze": 5
-          },
-          {
-            "name": "Cycling Track",
-            "gold": 1,
-            "silver": 3,
-            "bronze": 4
-          },
-          
-          {
-            "name": "Rowing",
-            "gold": 3,
-            "silver": 2,
-            "bronze": 3
-          }
-        ]
-      },
-      {
         "id": 7,
         "name": "South Korean",
         "flagSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/100px-Flag_of_South_Korea.svg.png",
@@ -219,34 +219,6 @@
           {
             "name": "Taekwondo",
             "gold": 2,
-            "silver": 0,
-            "bronze": 1
-          }
-        ]
-      },
-      {
-        "id": 8,
-        "name": "Italy",
-        "flagSrc": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/125px-Flag_of_Italy.svg.png",
-        "flagDesc" : "Repubblica Italiana , Italian Republic",
-        "desc" : "Italy, officially the Italian Republic, is a country in Southern and Western Europe. It is on a peninsula that extends into the Mediterranean Sea, with the Alps on its northern land border, as well as islands, notably Sicily and Sardinia. Italy shares its borders with France, Switzerland, Austria, Slovenia and two enclaves: Vatican City and San Marino. ",
-        "sports": [
-          {
-            "name": "Fencing",
-            "gold": 1,
-            "silver": 3,
-            "bronze": 1
-          },
-          {
-            "name": "Shooting",
-            "gold": 1,
-            "silver": 2,
-            "bronze": 1
-          },
-          
-          {
-            "name": "Taekwondo",
-            "gold": 0,
             "silver": 0,
             "bronze": 1
           }
@@ -277,6 +249,34 @@
             "gold": 4,
             "silver": 1,
             "bronze": 0
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Italy",
+        "flagSrc": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/125px-Flag_of_Italy.svg.png",
+        "flagDesc" : "Repubblica Italiana , Italian Republic",
+        "desc" : "Italy, officially the Italian Republic, is a country in Southern and Western Europe. It is on a peninsula that extends into the Mediterranean Sea, with the Alps on its northern land border, as well as islands, notably Sicily and Sardinia. Italy shares its borders with France, Switzerland, Austria, Slovenia and two enclaves: Vatican City and San Marino. ",
+        "sports": [
+          {
+            "name": "Fencing",
+            "gold": 1,
+            "silver": 3,
+            "bronze": 1
+          },
+          {
+            "name": "Shooting",
+            "gold": 1,
+            "silver": 2,
+            "bronze": 1
+          },
+          
+          {
+            "name": "Taekwondo",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1
           }
         ]
       }
