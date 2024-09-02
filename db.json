@@ -85,34 +85,6 @@
         ]
       },
       {
-        "id": 2,
-        "name": "Japan",
-        "flagSrc": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/125px-Flag_of_Japan.svg.png",
-        "flagDesc" : "日本国 Japan",
-        "desc" : "Japan is an island country in East Asia. It is located in the Pacific Ocean off the northeast coast of the Asian mainland, and is bordered on the west by the Sea of Japan and extends from the Sea of Okhotsk in the north to the East China Sea in the south.",
-        "sports": [
-          {
-            "name": "Wrestling",
-            "gold": 8,
-            "silver": 1,
-            "bronze": 2
-          },
-          {
-            "name": "Judo",
-            "gold": 3,
-            "silver": 2,
-            "bronze": 3
-          },
-          
-          {
-            "name": "Artistic Gymnastics",
-            "gold": 3,
-            "silver": 0,
-            "bronze": 1
-          }
-        ]
-      },
-      {
         "id": 6,
         "name": "Great Britain and Northern Ireland",
         "flagSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/125px-Flag_of_the_United_Kingdom_%281-2%29.svg.png",
@@ -137,6 +109,34 @@
             "gold": 3,
             "silver": 2,
             "bronze": 3
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Japan",
+        "flagSrc": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/125px-Flag_of_Japan.svg.png",
+        "flagDesc" : "日本国 Japan",
+        "desc" : "Japan is an island country in East Asia. It is located in the Pacific Ocean off the northeast coast of the Asian mainland, and is bordered on the west by the Sea of Japan and extends from the Sea of Okhotsk in the north to the East China Sea in the south.",
+        "sports": [
+          {
+            "name": "Wrestling",
+            "gold": 8,
+            "silver": 1,
+            "bronze": 2
+          },
+          {
+            "name": "Judo",
+            "gold": 3,
+            "silver": 2,
+            "bronze": 3
+          },
+          
+          {
+            "name": "Artistic Gymnastics",
+            "gold": 3,
+            "silver": 0,
+            "bronze": 1
           }
         ]
       },
